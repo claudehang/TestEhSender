@@ -8,4 +8,6 @@ Steps:
 
 ![Eh_Query_Result](https://user-images.githubusercontent.com/13774165/170662120-0a8fc712-443e-43a1-a917-38c3be9f3de6.jpg)
 
-Reference: https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-dotnet-standard-getstarted-send
+Reference:
+1. https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-dotnet-standard-getstarted-send
+2. https://www.c-sharpcorner.com/article/sending-event-data-to-azure-event-hub
