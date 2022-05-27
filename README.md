@@ -1,4 +1,4 @@
-# Sample C# program to send JSON data to Azure Event Hub
+# C# program to send JSON data to Azure Event Hub
 
 Steps:
 1. Clone the project and replace the private members `connectionString` and `eventHubName` of `Program` class in `Program.cs` file.
