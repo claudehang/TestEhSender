@@ -11,3 +11,4 @@ Steps:
 Reference:
 1. https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-dotnet-standard-getstarted-send
 2. https://www.c-sharpcorner.com/article/sending-event-data-to-azure-event-hub
+3. https://www.datahai.co.uk/general/visual-studio-code-c-app-for-sending-messages-to-azure-event-hubs
